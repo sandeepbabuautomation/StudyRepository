@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testDemo.DemoTest" duration-ms="8" started-at="2021-08-01T12:26:30Z" finished-at="2021-08-01T12:26:30Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8" started-at="2021-08-01T12:26:30Z" finished-at="2021-08-01T12:26:30Z">
+      <class name="testDemo.DemoTest">
+        <test-method status="PASS" signature="Sum()[pri:0, instance:testDemo.DemoTest@30a502]" name="Sum" duration-ms="0" started-at="2021-08-01T17:56:30Z" finished-at="2021-08-01T17:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+        <test-method status="PASS" signature="Sub()[pri:0, instance:testDemo.DemoTest@30a502]" name="Sub" duration-ms="0" started-at="2021-08-01T17:56:30Z" finished-at="2021-08-01T17:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+      </class> <!-- testDemo.DemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testDemo.DemoTest -->
+</testng-results>
